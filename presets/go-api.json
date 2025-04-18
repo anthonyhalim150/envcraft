@@ -1,0 +1,14 @@
+{
+  "lang": "go",
+  "only": [
+    ".editorconfig",
+    "go.mod",
+    ".golangci.yml",
+    ".gitignore",
+    ".env.example",
+    "main.go"
+  ],
+  "force": true,
+  "verbose": true,
+  "dryRun": false
+}

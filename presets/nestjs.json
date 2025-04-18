@@ -1,0 +1,15 @@
+{
+  "lang": "js",
+  "only": [
+    ".editorconfig",
+    ".prettierrc",
+    ".eslintrc",
+    ".nvmrc",
+    "tsconfig.json",
+    ".gitignore",
+    ".env.example"
+  ],
+  "force": true,
+  "verbose": true,
+  "dryRun": false
+}

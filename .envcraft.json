@@ -1,0 +1,18 @@
+{
+  "lang": "python",
+  "only": [
+    ".editorconfig",
+    ".python-version",
+    "requirements.txt",
+    ".gitignore",
+    ".env.example",
+    "pyproject.toml",
+    ".pylintrc",
+    "mypy.ini",
+    "README.md",
+    "main.py"
+  ],
+  "force": true,
+  "verbose": true,
+  "dryRun": false
+}

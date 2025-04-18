@@ -1,0 +1,16 @@
+{
+  "lang": "js",
+  "only": [
+    ".editorconfig",
+    ".prettierrc",
+    ".eslintrc",
+    ".nvmrc",
+    ".gitignore",
+    ".env.example",
+    "babel.config.js",
+    "vite.config.ts"
+  ],
+  "force": true,
+  "verbose": true,
+  "dryRun": false
+}
